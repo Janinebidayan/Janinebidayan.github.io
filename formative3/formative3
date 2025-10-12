@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Chesy's Webpage</title>
+    <style>
+        /* Header with background color and padding */
+        header {
+            background-color:#f3bde9;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-family:Arial, sans-serif;
+        }
+
+        /* Main content styling */
+        main {
+            max-width: 700px;
+            margin: 20px auto; /* center main content */
+            padding: 15px;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Heading with custom font and color */
+        main h1{
+            font-family: "arial", sans-serif;
+            color: #b033cc;
+            margin-bottom: 12px;
+        }
+        .para2 {
+            font-family: "courier new", monospace;
+            color: #875de9;
+            margin-bottom: 12px;
+        }
+        /* Styled unordered list with spacing and custom text */
+        ul {
+            list-style: circle inside;
+            padding-left: 10px;
+            color: #555555;
+            font-size: 16px;
+            letter-spacing: 0.05em;
+            margin-bottom: 20px;
+
+        }
+        /* Styled with smaller text and background */
+        footer {
+            background-color: #444466;
+            color: #dddddd;
+            text-align: center;
+            font-size: 14px;
+            padding: 10px;
+        }
+    </style>
+    </head>
+<body>
+    <!--Header Section-->
+    <header>
+        <h1>My Styled Webpage</h1>
+    </header>
+    <!--About Myself-->
+    <main>
+        <h1>Hello get to know me :></h1>
+
+        <p class="para1">
+            My name is Janine, but my friends call me chesca. I came from the northernmost province of the Philippines, Basco Batanes.
+        </p>
+        <p class="para2">
+            I like to sing, i used to perform in school programs and was a part of a church choir at home. I also love edit and draw digital art. I started my art journey when i was only in 7th grade and since then i always wanted to nurture my potential.
+        </p>
+        <ul>
+            <li>Anime</li>
+            <li>music</li>
+            <li>Documentaries</li>
+        </ul>
+
+        <img src="https://sl.bing.net/hFL6zhj6Hs" alt="Sample" />
+    </main>
+    <!--Footer Section-->
+    <footer>
+        &copy; 2025 Janine Bidayan Simple styled Webpage
+    </footer>
+    </body>
+</html>
