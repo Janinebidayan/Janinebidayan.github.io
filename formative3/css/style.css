@@ -2,7 +2,18 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     justify-content: center;
     align-items: stretch;
-    background-color: #f5f5f5;
+    background-color: #E18080;
+}
+nav a:link,
+nav a:visited {
+  color: #2f5233;
+  text-decoration: none;
+}
+
+nav a:hover,
+nav a:active {
+  color: #234d20;
+  text-decoration: underline;
 }
 
 .container {
@@ -10,7 +21,7 @@ body {
 }
 
 header {
-    background-color: #0078d7;
+    background-color: #E14B66;
     color: white;
     text-align: center;
 }
@@ -28,7 +39,7 @@ header {
 }
 
 footer {
-    background-color: #0078d7;
+    background-color: #FD90A4;
     color: white;
     text-align: center;
 }
