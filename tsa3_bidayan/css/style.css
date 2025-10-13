@@ -10,25 +10,26 @@ body {
 }
 
 header {
-    background-color: #0078d7;
+    background-color: #FFAEBD;
     color: white;
     text-align: center;
 }
 
 .left {
-    background-color: #e8e8e8;
+    background-color: #FFD7DE;
 }
 
 .mid {
-    background-color: #efefef;
+    background-color: #FFD7DE;
 }
 
 .right {
-    background-color: #d0d0d0;
+    background-color: #FFD7DE;
 }
 
 footer {
-    background-color: #0078d7;
+    background-color: #F5A5B3;
     color: white;
     text-align: center;
+
 }
